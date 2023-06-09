@@ -1,0 +1,4 @@
+[submodule "coursework"]
+	path = coursework
+	url = git@github.com:evil-cheetah-edu/coursework.git
+	branch = master
